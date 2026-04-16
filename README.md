@@ -1,4 +1,3 @@
-# FoodHub-EDA
 
 <img width="1760" height="500" alt="foodhub_banner" src="https://github.com/user-attachments/assets/8429c4bc-d341-4b8f-9af8-068a8df398e8" />
 
